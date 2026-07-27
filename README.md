@@ -38,7 +38,7 @@ An end-to-end **SQL Server Data Warehouse** project implementing the **Bronze–
 ## 🔄 ETL Pipeline
 
 <p align="center">
-<img src="docs/etl_flow.png" width="850">
+<img src="docs/ETL.png" width="850">
 </p>
 
 ---
