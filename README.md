@@ -1,9 +1,5 @@
 # 🏗️ SQL Data Warehouse Project
 
-<p align="center">
-<img src="docs/architecture.png">
-</p>
-
 An end-to-end **SQL Server Data Warehouse** project implementing the **Bronze–Silver–Gold Medallion Architecture**. This project demonstrates how raw CRM and ERP data is ingested, transformed, validated, and modeled into an analytics-ready data warehouse using SQL Server.
 
 ---
